@@ -15,6 +15,7 @@ public class Hello {
 		// ctrl+shift+o import문 추가
 		// alt+enter 탐색기 이동 가능
 		//test
+		//test2
 		System.out.println();
 		System.out.println("Hello");
 		System.out.println("Hello");
