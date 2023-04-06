@@ -12,7 +12,7 @@ public class Hello {
 		// ctrl+i 자동 들여쓰기
 		// ctrl+/  주석(토글) -> 한줄 주석
 		// ctrl+space 자동완성
-		//ctrl+shift+- 창 수평 분할
+		//ctrl+shift+- 창 수평 분할 
 		System.out.println();
 		System.out.println("Hello");
 		System.out.println("Hello");
